@@ -1,0 +1,6 @@
+*.dat
+
+
+# Exclude our results
+Results/
+
